@@ -8,3 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+
+Все заметные изменения в этом проекте будут задокументированы в этом файле.
+
+Формат основан на [Вести журнал изменений] (https://keepachangelog.com/en/1.0.0/),
+и этот проект придерживается [Семантического управления версиями] (https://semver.org/spec/v2.0.0.html).
